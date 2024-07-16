@@ -39,6 +39,10 @@ One of the key techniques in this field is in-situ resource utilization (ISRU), 
 Additionally, aerospace design for upcycling emphasizes closed-loop systems, where waste products are continually recycled and reused. This approach ensures that resources are maximized and waste is minimized, which is critical in the isolated and resource-scarce environments of the Moon and Mars. By leveraging innovative design and engineering techniques, the field aims to establish self-sufficient colonies that can thrive with minimal external support, paving the way for long-term human presence beyond Earth.
 
 #
+
+> Alex: "*It's very hard to sell a product designed to be upcycled.*"
+
+#
 ### Related Links
 
 [Product Design](https://github.com/sourceduty/Product_Design)

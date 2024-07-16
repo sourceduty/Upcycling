@@ -41,7 +41,7 @@ Additionally, aerospace design for upcycling emphasizes closed-loop systems, whe
 #
 ### Product Cycle and Upcycle
 
-![Product Cycle and Upcycle Diagram](https://github.com/user-attachments/assets/5fd72d15-ac7a-4806-8b25-5410326cb8fc)
+![Product Cycle and Upcycle Diagram](https://github.com/user-attachments/assets/fd2bec10-c582-404b-a56b-fcf0d3551869)
 
 This diagram illustrates the concept of product life cycles, specifically distinguishing between two phases: the initial product cycle and an upcycle phase. The diagram is split into two parts, each represented by a circular arrow. The left side of the diagram depicts "Cycle 1: Introduction," while the right side shows "Cycle 2: Reintroduction." Both cycles are crucial for understanding how products evolve in the market and the strategies businesses can employ to extend their lifecycle and value.
 

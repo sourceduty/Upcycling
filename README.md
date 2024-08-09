@@ -1,4 +1,4 @@
-![Upcycle](https://github.com/user-attachments/assets/82c68c54-a922-4314-b0ab-ffbbe51fa031)
+![Upcycled](https://github.com/user-attachments/assets/403fff84-bd38-4038-97f7-cc1b61f81be2)
 
 > Design for the transformation of waste materials.
 #
@@ -71,6 +71,10 @@ Overall, the diagram highlights the dynamic nature of product life cycles and th
 [Airplane Design](https://github.com/sourceduty/Airplane_Design)
 <br>
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+
+#
+
+![Upcycle](https://github.com/user-attachments/assets/82c68c54-a922-4314-b0ab-ffbbe51fa031)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

@@ -74,6 +74,10 @@ Overall, the diagram highlights the dynamic nature of product life cycles and th
 
 #
 
+![Dumpster Life](https://github.com/user-attachments/assets/29cdec9c-bdb7-46ea-959b-283b2ab76098)
+
+#
+
 ![Upcycle](https://github.com/user-attachments/assets/82c68c54-a922-4314-b0ab-ffbbe51fa031)
 
 ***

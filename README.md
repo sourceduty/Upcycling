@@ -71,6 +71,8 @@ Overall, the diagram highlights the dynamic nature of product life cycles and th
 [Airplane Design](https://github.com/sourceduty/Airplane_Design)
 <br>
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+<br>
+[Upcycle Designer](https://github.com/sourceduty/Upcycle_Designer)
 
 #
 

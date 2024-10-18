@@ -1,4 +1,4 @@
-![Upcycled](https://github.com/user-attachments/assets/403fff84-bd38-4038-97f7-cc1b61f81be2)
+![Disc Drive Upcycle](https://github.com/user-attachments/assets/ba056503-55ce-4a08-86f9-baa751a1c863)
 
 > Design for the transformation of waste materials.
 #

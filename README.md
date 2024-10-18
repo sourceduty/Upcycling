@@ -30,31 +30,18 @@ Practical steps for upcycling involve cleaning and preparing the materials, plan
 #
 ### Common Upcycled Parts and Products
 
-| Upcycled Parts            | Example of Upcycled Output Product                        |
-|---------------------------|-----------------------------------------------------------|
-| Wooden pallets             | Coffee table, vertical garden shelf                      |
-| Glass bottles              | Wine bottle lamp, hanging garden vase                    |
-| Old tires                  | Tire swing, outdoor garden planter                       |
-| Denim jeans                | Denim tote bag, patchwork denim rug                      |
-| Wine corks                 | Corkboard for office, cork coaster set                   |
-| Bicycle wheels             | Wall clock made from wheel rim, wheel chandelier         |
-| Metal cans                 | Tin can lanterns with cut-out patterns                   |
-| Plastic bottles            | Plastic bottle bird feeder for backyard                  |
-| CDs or DVDs                | Decorative mosaic mirror frame, CD coasters              |
-| Old books                  | Floating book shelf, picture frame from book cover       |
-
-| Upcycled Products          | Parts Used                                               | Example of Upcycled Output Product                |
-|---------------------------|-----------------------------------------------------------|--------------------------------------------------|
-| Coffee table               | Wooden pallets                                            | Coffee table from wooden pallet                  |
-| Wine bottle lamp           | Glass bottles                                             | Wine bottle lamp from old bottles                |
-| Tire swing                 | Old tires                                                 | Outdoor tire swing                               |
-| Denim tote bag             | Denim jeans                                               | Tote bag from old denim jeans                    |
-| Corkboard for office       | Wine corks                                                | Corkboard made from wine corks                   |
-| Wall clock                 | Bicycle wheels                                            | Clock made from bicycle wheel                    |
-| Tin can lanterns           | Metal cans                                                | Lanterns crafted from metal cans                 |
-| Bird feeder                | Plastic bottles                                           | Bird feeder made from plastic bottle             |
-| Mosaic mirror frame        | CDs or DVDs                                               | Mosaic mirror using broken CDs                   |
-| Floating book shelf        | Old books                                                 | Shelf created from repurposed old books          |
+| Upcycled Parts            | Upcycled Products                                         | Example of Output Product                          |
+|---------------------------|-----------------------------------------------------------|---------------------------------------------------|
+| Wooden pallets             | Furniture (tables, shelves, chairs)                      | Coffee table, vertical garden shelf                |
+| Glass bottles              | Lamps, vases, glass brick walls                          | Wine bottle lamp, hanging garden vase              |
+| Old tires                  | Planters, playground flooring, furniture                 | Tire swing, outdoor garden planter                 |
+| Denim jeans                | Bags, rugs, pillows                                      | Denim tote bag, patchwork denim rug                |
+| Wine corks                 | Bulletin boards, coasters, keychains                     | Corkboard for office, cork coaster set             |
+| Bicycle wheels             | Clocks, wall art, hanging pot holders                    | Wall clock made from wheel rim, wheel chandelier   |
+| Metal cans                 | Lanterns, pencil holders, decorative containers          | Tin can lanterns with cut-out patterns             |
+| Plastic bottles            | Greenhouse panels, bird feeders, hanging planters        | Plastic bottle bird feeder for backyard            |
+| CDs or DVDs                | Mosaic art, coasters, wind chimes                        | Decorative mosaic mirror frame, CD coasters        |
+| Old books                  | Shelves, art frames, book safes                          | Floating book shelf, picture frame from book cover |
 
 #
 ### Cradle 2 Cradle

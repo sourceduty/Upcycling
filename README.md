@@ -28,6 +28,35 @@ To upcycle effectively, one must first identify items that can be repurposed rat
 Practical steps for upcycling involve cleaning and preparing the materials, planning the new design, and using appropriate tools and techniques to bring the new item to life. For beginners, starting with simple projects can build confidence and skill. There are numerous resources available, including online tutorials and community workshops, that provide inspiration and guidance. By integrating upcycling into daily life, individuals can contribute to a more sustainable environment while also enjoying the satisfaction of creating unique, personalized items.
 
 #
+### Common Upcycled Parts and Products
+
+| Upcycled Parts            | Example of Upcycled Output Product                        |
+|---------------------------|-----------------------------------------------------------|
+| Wooden pallets             | Coffee table, vertical garden shelf                      |
+| Glass bottles              | Wine bottle lamp, hanging garden vase                    |
+| Old tires                  | Tire swing, outdoor garden planter                       |
+| Denim jeans                | Denim tote bag, patchwork denim rug                      |
+| Wine corks                 | Corkboard for office, cork coaster set                   |
+| Bicycle wheels             | Wall clock made from wheel rim, wheel chandelier         |
+| Metal cans                 | Tin can lanterns with cut-out patterns                   |
+| Plastic bottles            | Plastic bottle bird feeder for backyard                  |
+| CDs or DVDs                | Decorative mosaic mirror frame, CD coasters              |
+| Old books                  | Floating book shelf, picture frame from book cover       |
+
+| Upcycled Products          | Parts Used                                               |
+|---------------------------|-----------------------------------------------------------|
+| Coffee table               | Wooden pallets                                            |
+| Wine bottle lamp           | Glass bottles                                             |
+| Tire swing                 | Old tires                                                 |
+| Denim tote bag             | Denim jeans                                               |
+| Corkboard for office       | Wine corks                                                |
+| Wall clock                 | Bicycle wheels                                            |
+| Tin can lanterns           | Metal cans                                                |
+| Bird feeder                | Plastic bottles                                           |
+| Mosaic mirror frame        | CDs or DVDs                                               |
+| Floating book shelf        | Old books                                                 |
+
+#
 ### Cradle 2 Cradle
 
 ![Cradle 2 Cradle](https://github.com/user-attachments/assets/d4f744e1-d69f-4f87-b9c9-8b8a5c4f3322)

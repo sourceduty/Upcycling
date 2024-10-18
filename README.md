@@ -43,18 +43,18 @@ Practical steps for upcycling involve cleaning and preparing the materials, plan
 | CDs or DVDs                | Decorative mosaic mirror frame, CD coasters              |
 | Old books                  | Floating book shelf, picture frame from book cover       |
 
-| Upcycled Products          | Parts Used                                               |
-|---------------------------|-----------------------------------------------------------|
-| Coffee table               | Wooden pallets                                            |
-| Wine bottle lamp           | Glass bottles                                             |
-| Tire swing                 | Old tires                                                 |
-| Denim tote bag             | Denim jeans                                               |
-| Corkboard for office       | Wine corks                                                |
-| Wall clock                 | Bicycle wheels                                            |
-| Tin can lanterns           | Metal cans                                                |
-| Bird feeder                | Plastic bottles                                           |
-| Mosaic mirror frame        | CDs or DVDs                                               |
-| Floating book shelf        | Old books                                                 |
+| Upcycled Products          | Parts Used                                               | Example of Upcycled Output Product                |
+|---------------------------|-----------------------------------------------------------|--------------------------------------------------|
+| Coffee table               | Wooden pallets                                            | Coffee table from wooden pallet                  |
+| Wine bottle lamp           | Glass bottles                                             | Wine bottle lamp from old bottles                |
+| Tire swing                 | Old tires                                                 | Outdoor tire swing                               |
+| Denim tote bag             | Denim jeans                                               | Tote bag from old denim jeans                    |
+| Corkboard for office       | Wine corks                                                | Corkboard made from wine corks                   |
+| Wall clock                 | Bicycle wheels                                            | Clock made from bicycle wheel                    |
+| Tin can lanterns           | Metal cans                                                | Lanterns crafted from metal cans                 |
+| Bird feeder                | Plastic bottles                                           | Bird feeder made from plastic bottle             |
+| Mosaic mirror frame        | CDs or DVDs                                               | Mosaic mirror using broken CDs                   |
+| Floating book shelf        | Old books                                                 | Shelf created from repurposed old books          |
 
 #
 ### Cradle 2 Cradle
